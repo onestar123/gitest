@@ -16,6 +16,3 @@ class Solution:
         target = 8
         s = Solution()
         print(s.twoSum(nums, target))
-
-
-        adfafefasf
